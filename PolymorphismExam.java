@@ -72,3 +72,4 @@ class FireCar extends Car {
 class WhiteCar extends Car {
 	boolean isHwanJa; // 환자 탑승여부
 }
+// 세번 더 
